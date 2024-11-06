@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -g
+CFLAGS = -std=c99
 LFLAGS = -lraylib -lm
 
 BINARY = fern
